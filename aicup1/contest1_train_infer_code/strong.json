@@ -1,0 +1,208 @@
+{
+  "train": [
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0001.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0001_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0002.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0002_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0003.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0003_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0004.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0004_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0005.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0005_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0006.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0006_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0007.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0007_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0008.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0008_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0009.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0009_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0010.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0010_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0011.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0011_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0012.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0012_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0013.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0013_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0014.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0014_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0015.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0015_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0016.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0016_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0017.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0017_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0018.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0018_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0019.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0019_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0020.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0020_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0021.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0021_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0022.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0022_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0023.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0023_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0024.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0024_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0025.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0025_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0026.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0026_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0027.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0027_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0028.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0028_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0029.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0029_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0030.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0030_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0031.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0031_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0032.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0032_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0033.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0033_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0034.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0034_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0035.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0035_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0036.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0036_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0037.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0037_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0038.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0038_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0039.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0039_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0040.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0040_gt.nii.gz"
+    }
+  ],
+  "val": [
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0041.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0041_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0042.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0042_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0043.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0043_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0044.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0044_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0045.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0045_gt.nii.gz"
+    }
+  ],
+  "test": [
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0046.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0046_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0047.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0047_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0048.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0048_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0049.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0049_gt.nii.gz"
+    },
+    {
+      "image": "dataset/chgh/aicup_1/imagesTr/patient0050.nii.gz",
+      "label": "dataset/chgh/aicup_1/labelsTr/patient0050_gt.nii.gz"
+    }
+  ]
+}
